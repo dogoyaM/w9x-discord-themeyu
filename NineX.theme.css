@@ -16,7 +16,7 @@
 :root {
     --w9x-background-image: none;
     --w9x-background-color: #008080;
-    --w9x-start-text:       "Windows95";
+    --w9x-start-text:       ":^)";
 
     --w9x-titlebar-color:   #000080;
     --w9x-warning-color:    #FF0000;
@@ -27,7 +27,7 @@
     --w9x-box-color-2:      #DFDFDF;
     --w9x-box-color-3:      #C0C0C0;
     --w9x-box-color-4:      #808080;
-    --w9x-box-color-5:      #000000;
+    --w9x-box-color-5:      #01585844;
 }
 
 .theme-light {
